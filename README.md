@@ -6,3 +6,4 @@ kiryuhen/kiryuhen is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ![Static Badge](https://img.shields.io/badge/:badgeContent)
+https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white
